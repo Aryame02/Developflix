@@ -15,4 +15,9 @@ h2 {
   margin-bottom: 10px;
 }
 
-
+.genero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
